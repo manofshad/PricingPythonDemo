@@ -1,0 +1,1 @@
+Update the calculate_price function to handle bulk pricing tiers, loyalty discounts, shipping costs, and tax, while keeping proper validations and returning the final rounded total.
